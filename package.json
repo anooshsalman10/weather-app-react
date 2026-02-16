@@ -4,6 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "homepage": "https://anooshsalman10.github.io/weather-app-react",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
